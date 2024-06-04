@@ -6,7 +6,7 @@
     <body>
         This is a PWA.
 
-        <a href='a.html'> click me</a>
+        <a href='a.php'> click me</a>
     </body>
     <script>
         window.addEventListener('load', () => {
